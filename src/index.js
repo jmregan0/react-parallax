@@ -23,7 +23,7 @@ class App extends React.Component {
             remove / edit */}
         {/* ************************************************************************************ */}
         <div className="p-1">
-          <p style={{fontFamily: 'Barlow', color: '#FFFFFF', fontSize: '48px'}}>W e l c o m e</p>
+          <p style={{fontFamily: 'Barlow', color: '#FFFFFF', fontSize: '48px', marginBottom: '20%'}}>W e l c o m e</p>
         </div>
 
         {/* ************************************************************************************ */}
