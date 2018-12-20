@@ -1,7 +1,7 @@
 # React-Parallax
 This is a minimal React.js template for using Parallax.
 
-![Alt Text](https://imgur.com/y7oPo9O.gif)
+<img src="/public/images/react_parallax.gif">
 
 ## Getting Started
 1. clone or fork this project on your local machine
