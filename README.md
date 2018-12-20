@@ -1,5 +1,5 @@
 # React-Parallax
-This is a minimal React.js template for using Parallax.
+A minimal React.js template for building quick and easy personal sites with Parallax.
 
 <img src="/public/images/react_parallax.gif">
 
