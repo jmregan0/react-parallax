@@ -17,3 +17,6 @@ You will see some inline styling on React components for layout purposes. Any Pa
 
 ## Building
 `npm run build` will bundle your React code and output to `/public/bundle.js`.
+
+## Endnote
+I've found `webpack-dev-server` can be useful in development, but it's not really a necessary dependency here. Sometimes it causes the scrolling to be a little jumpy in the browser preview, and obviously it eats up some space. Feel free to exclude it from your project if you have another preferred method of previewing your built code.
