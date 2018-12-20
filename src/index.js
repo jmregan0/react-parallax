@@ -17,7 +17,10 @@ class App extends React.Component {
             be sure to give them unique classNames.
 
             Check out public/style.css to see the styling. You shouldn't need to change any actual
-            styling, but you can define your image sources there */}
+            styling, but you can define your image sources there
+
+            This first one has a little extra inline-styling for the "Welcome" text. Feel free to
+            remove / edit */}
         {/* ************************************************************************************ */}
         <div className="p-1">
           <p style={{fontFamily: 'Barlow', color: '#FFFFFF', fontSize: '48px'}}>W e l c o m e</p>
@@ -50,8 +53,9 @@ class App extends React.Component {
           {/* I included a really basic Projects component here that you can feel free to discard or
               expand upon.
 
-              If you look into it you will see that it renders a row of project items that you can
-              pass a name and image to. */}
+              If you dive into it you will see that it renders a row of project items that you can
+              pass a name and image to. These could easily be customized to pop open a modal or link
+              to another site on click */}
           {/* ************************************************************************************ */}
           <Projects />
         </div>
